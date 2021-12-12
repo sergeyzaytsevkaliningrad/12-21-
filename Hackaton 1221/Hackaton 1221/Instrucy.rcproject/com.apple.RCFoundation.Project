@@ -1,0 +1,5029 @@
+{
+  "__content" : [
+    {
+      "scenes" : [
+        {
+          "__content" : [
+            {
+              "arAnchorSpecification" : {
+                "alignment" : "horizontal",
+                "name" : "surface"
+              },
+              "behaviors" : [
+
+              ],
+              "gravity" : [
+                0,
+                -9.8000001907348633,
+                0
+              ],
+              "identifier" : "F9610871-0955-494F-A5C3-51D1A281BAB3",
+              "material" : "concrete",
+              "overrides" : {
+                "children" : {
+                  "0B12B4B1-89AD-4913-AB3B-FD46871B1510" : null,
+                  "0DA6026B-281C-4A3C-98A1-9801E5165705" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "297E85C7-EA90-4BD7-99D1-88326AC40CB3"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2979204654693604,
+                        0.079685032367706299,
+                        -0.17724116146564484,
+                        1
+                      ]
+                    }
+                  },
+                  "1B99B7D4-EDED-4BEE-8B12-F5020BFFEE32" : null,
+                  "1B606E16-D28B-4C01-BEFF-D1A03743AFE2" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "0976D7AF-95F7-4A0E-9062-0D828FF11F17"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1418100595474243,
+                        0.078501373529434204,
+                        -0.44171285629272461,
+                        1
+                      ]
+                    }
+                  },
+                  "1CDA6884-F986-449E-BB74-DA4155F30219" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "D741B9C3-E035-475B-AACD-5D251C03D6B6"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7843809127807617,
+                        0.078501380980014801,
+                        -0.10222408920526505,
+                        1
+                      ]
+                    }
+                  },
+                  "1D585114-E4DF-4CCB-A2B3-EE1768F2B1A3" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9CC07107-EC9C-4437-B278-25DB3D46C504"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7877591848373413,
+                        0.078501492738723755,
+                        0.075154401361942291,
+                        1
+                      ]
+                    }
+                  },
+                  "1E41EBA8-F412-4F00-AECA-DBBAA72947BE" : null,
+                  "1EF268CF-5A15-4184-B6C5-240F36BBCF9A" : null,
+                  "1F0C97D3-6975-40D9-8655-A707798BF3B6" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "2790436F-D081-44FA-9CB7-FF09BD07FF9A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3809865713119507,
+                        0.079685032367706299,
+                        -0.52276414632797241,
+                        1
+                      ]
+                    }
+                  },
+                  "2DD11180-B68D-41FA-B395-182DE0D89C42" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "F83CC23D-16E1-4512-BD0D-F8DFFF06BD7C"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4632081985473633,
+                        0.076035082340240479,
+                        -0.52549213171005249,
+                        1
+                      ]
+                    }
+                  },
+                  "2DF5E228-75B8-4C89-A42B-66F7C8504BA0" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "CE93C70C-444F-4975-AE00-F959CB23FA3A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7851024866104126,
+                        0.079790152609348297,
+                        -0.18423698842525482,
+                        1
+                      ]
+                    }
+                  },
+                  "3EF13079-5B60-43F0-B2D9-F0C56D1D0EAF" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "A320CC54-E8EB-460C-B1DC-D4AB3D2C2DEB"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5412582159042358,
+                        0.078501373529434204,
+                        0.075806699693202972,
+                        1
+                      ]
+                    }
+                  },
+                  "4A5353D5-2CEA-4F93-A9ED-9CFA6B2893E2" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "679CD37B-3A47-4D00-8C0B-65324A339F94"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7096633911132812,
+                        0.076035082340240479,
+                        -0.53327053785324097,
+                        1
+                      ]
+                    }
+                  },
+                  "4A213441-135C-450E-8EF8-1A4EAB267C1D" : null,
+                  "4C0F17FE-1C4C-4A04-A83E-695663986F8B" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "1937CA7F-9C1E-4473-9307-23BE43EBBB9F"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3016290664672852,
+                        0.075700663030147552,
+                        -0.44451701641082764,
+                        1
+                      ]
+                    }
+                  },
+                  "4CE1F2DB-4059-457E-A89D-4B5C1199AB8B" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "437D05E8-014B-48E4-B960-2E2B55E2C7AC"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2200068235397339,
+                        0.078501418232917786,
+                        -0.18239043653011322,
+                        1
+                      ]
+                    }
+                  },
+                  "4D71EE1C-564A-499A-8F02-65868E259D33" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:8f14db872c4fe1af457d8337a62c8185\/premium-icon-tree-4265431.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "38072F78-545A-4F94-9E2E-C4F584CDB8EC"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        20.000001907348633,
+                        0,
+                        0,
+                        0,
+                        0,
+                        20.000001907348633,
+                        0,
+                        0,
+                        0,
+                        0,
+                        20.000001907348633,
+                        0,
+                        1.4493794441223145,
+                        -0.31079685688018799,
+                        -1.1832568645477295,
+                        1
+                      ]
+                    }
+                  },
+                  "5CE1294E-CEC3-44F7-B59D-56B7E4B3B517" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "03A20E86-60E0-43F1-8067-4FA9857B2697"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5486700534820557,
+                        0.076035171747207642,
+                        -0.0067112450487911701,
+                        1
+                      ]
+                    }
+                  },
+                  "5F97441F-1BE2-4622-AB1B-6DF65D5B43BC" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "C6678451-FACC-4E0F-B8C3-52F088D2ADE5"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2174795866012573,
+                        0.077168874442577362,
+                        0.083230853080749512,
+                        1
+                      ]
+                    }
+                  },
+                  "7A2736B6-402A-4500-8D3A-3E19727B894E" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "22197349-217E-4400-AE10-4242E3BB7004"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4576040506362915,
+                        0.075700663030147552,
+                        -0.10318884998559952,
+                        1
+                      ]
+                    }
+                  },
+                  "7ECD7242-BBD9-40DE-AB87-0C4E25F75AA2" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "649FA38D-D7D8-4A8A-8EA5-79B910C7128A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1364772319793701,
+                        0.078501373529434204,
+                        -0.34932500123977661,
+                        1
+                      ]
+                    }
+                  },
+                  "7F5F1ADC-E5E4-4EF5-A5B5-FC43B071FFA5" : null,
+                  "8BEF675A-6C52-44E8-AF54-CB6F15BECC5D" : null,
+                  "8CDCA164-C351-4B2D-B2B1-F6049C534207" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "arrowAngle",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.92000000000000004
+                          }
+                        ],
+                        [
+                          "arrowAngleOffset",
+                          {
+                            "typeName" : "Double",
+                            "value" : -16
+                          }
+                        ],
+                        [
+                          "arrowLength",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.28000000000000003
+                          }
+                        ],
+                        [
+                          "arrowParam",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.92000000000000004
+                          }
+                        ],
+                        [
+                          "arrowWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.17000000000000001
+                          }
+                        ],
+                        [
+                          "bevelRoundness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1
+                          }
+                        ],
+                        [
+                          "bubbleArrowBlendOffset",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.29999999999999999
+                          }
+                        ],
+                        [
+                          "bubbleMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "bubbleMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0.93333500623703003,
+                              0.93333500623703003,
+                              0.93333500623703003,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "bubbleType",
+                          {
+                            "typeName" : "String",
+                            "value" : "speech"
+                          }
+                        ],
+                        [
+                          "cornerRoundness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.20000000000000001
+                          }
+                        ],
+                        [
+                          "featureAngle",
+                          {
+                            "typeName" : "Double",
+                            "value" : 135
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.18268999999999999
+                          }
+                        ],
+                        [
+                          "message",
+                          {
+                            "typeName" : "String",
+                            "value" : "Нажмите на Инструкции чтобы начать урок"
+                          }
+                        ],
+                        [
+                          "messageFont",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "messageMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "messageMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "messageScale",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.69999999999999996
+                          }
+                        ],
+                        [
+                          "numFeatures",
+                          {
+                            "typeName" : "Int",
+                            "value" : 8
+                          }
+                        ],
+                        [
+                          "pillowSize",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.5
+                          }
+                        ],
+                        [
+                          "pillowWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1
+                          }
+                        ],
+                        [
+                          "thickness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.02
+                          }
+                        ],
+                        [
+                          "width",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.28278999999999999
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "text_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "0E8E92AC-D0C0-4C20-97AD-84CA9DD8B1A8"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.QuoteBubbleAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9EFB775C-CE13-4C9F-B75D-59C8670F775A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1.3897459506988525,
+                        0,
+                        0,
+                        0,
+                        0,
+                        4.2246010707458481e-06,
+                        -1.389745831489563,
+                        0,
+                        0,
+                        1.389745831489563,
+                        4.2246010707458481e-06,
+                        0,
+                        0.74077755212783813,
+                        0.1637861579656601,
+                        -0.39692136645317078,
+                        1
+                      ]
+                    }
+                  },
+                  "8EC82300-CA82-4347-A75D-F5BB080C35AB" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "42A561FE-9487-4496-802B-B5A9CF798EEC"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3089207410812378,
+                        0.077168852090835571,
+                        -0.26348412036895752,
+                        1
+                      ]
+                    }
+                  },
+                  "8F926EA0-0AD4-48D1-AF03-EDCB13CCE431" : null,
+                  "9D634793-7C2A-41BF-8A94-9DA0F34774D1" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "DBB88370-4538-4D60-BCBF-A21FE46F6A62"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7789106369018555,
+                        0.076035089790821075,
+                        -0.35999259352684021,
+                        1
+                      ]
+                    }
+                  },
+                  "10A28966-890F-4ACC-8BB0-1ADF6357C46B" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9C10F126-FC7C-4E96-B17F-202D1A919C97"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3826085329055786,
+                        0.078501611948013306,
+                        -0.00354974833317101,
+                        1
+                      ]
+                    }
+                  },
+                  "17CC4B0C-0DE0-4D15-ACA2-1DBBA4C33370" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "DF77AF94-E6C4-49AE-BC8D-4D785A0A2300"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4590479135513306,
+                        0.078501418232917786,
+                        -0.18658526241779327,
+                        1
+                      ]
+                    }
+                  },
+                  "24C6A390-47AA-4E76-A4FE-96B5ADD381AA" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6B1CDA77-204A-478A-B112-2C20DB77DA53"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2138313055038452,
+                        0.07968505471944809,
+                        -0.0037053525447845459,
+                        1
+                      ]
+                    }
+                  },
+                  "30E599E2-578D-4A20-938A-DA5CED522655" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "46C61C94-1219-4035-859B-FB2428A7658D"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7092133760452271,
+                        0.078501492738723755,
+                        0.073591150343418121,
+                        1
+                      ]
+                    }
+                  },
+                  "38CEF0FA-6167-42FC-9B18-F44F723EE6EF" : null,
+                  "45CA3614-736E-4315-B5F6-A9AA3AA3EE50" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "21D350F9-E4EC-47E2-B7B9-D03974DDAD50"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3874940872192383,
+                        0.076035082340240479,
+                        -0.35314828157424927,
+                        1
+                      ]
+                    }
+                  },
+                  "63D65E67-D597-49DF-B9FC-E248500C114F" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "D7EEE0BA-56E8-4131-AB3C-F1E6E5026944"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3801420927047729,
+                        0.076035082340240479,
+                        -0.17996914684772491,
+                        1
+                      ]
+                    }
+                  },
+                  "70BB2427-5839-4537-BF1E-B151E48E1C0C" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "E20E967A-2E0E-478F-A934-72678FC87CD1"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7047100067138672,
+                        0.074219852685928345,
+                        -0.010972202755510807,
+                        1
+                      ]
+                    }
+                  },
+                  "77A5BAED-A14B-4668-9D04-12097DAA173A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "F3D46CED-0DA0-43FE-8B1B-92B87649D4E2"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4637171030044556,
+                        0.075700663030147552,
+                        -0.27145984768867493,
+                        1
+                      ]
+                    }
+                  },
+                  "80A69909-30FD-43B0-B11B-E029C5477491" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "A912A2E7-A9CF-49FB-9663-0A30176F6F1D"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1366060972213745,
+                        0.078501492738723755,
+                        -0.51654732227325439,
+                        1
+                      ]
+                    }
+                  },
+                  "85DD558E-FFD5-4A84-ACC3-2B7CFC08199D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "0F07B676-259D-4697-916C-FF30500C9FCC"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5441735982894897,
+                        0.078501492738723755,
+                        -0.51882654428482056,
+                        1
+                      ]
+                    }
+                  },
+                  "95D00F76-0208-400F-9FAE-E1AE2ED81051" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3183012F-F5E0-4AC3-924D-1CDF7A969A54"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.628464937210083,
+                        0.077168971300125122,
+                        -0.43354380130767822,
+                        1
+                      ]
+                    }
+                  },
+                  "95EF0A51-18B2-4207-9AEF-DD4705F6B254" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "CD5CF348-ECC3-4369-AE45-0B3639B2296E"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2183099985122681,
+                        0.075700663030147552,
+                        -0.42635354399681091,
+                        1
+                      ]
+                    }
+                  },
+                  "97D8174A-6D77-4CE9-A55C-3A37524507F3" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "BC210CD7-5623-4387-AA0A-2A532A06B845"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5406098365783691,
+                        0.077168852090835571,
+                        -0.094499759376049042,
+                        1
+                      ]
+                    }
+                  },
+                  "170B4A04-26C6-4C49-825B-B937A478E46C" : null,
+                  "402C7775-B145-4C24-9F46-0726BC8014AC" : null,
+                  "443AFCAD-86C6-4F9A-A55A-DFFFB2BA25E1" : null,
+                  "632E476F-1E55-4E30-9723-1C51DD2E8B89" : null,
+                  "888A7B94-C8A3-4D2E-934F-D458FC52F837" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "02DFD16D-EBA7-4C6D-9757-73CE12240A84"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6252962350845337,
+                        0.076035082340240479,
+                        -0.35243496298789978,
+                        1
+                      ]
+                    }
+                  },
+                  "979B4139-B540-4F82-B75E-F98E80AA26EC" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "75497AE9-EDBF-4AE3-8D5A-7834506A0765"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6265326738357544,
+                        0.078802779316902161,
+                        -0.26534947752952576,
+                        1
+                      ]
+                    }
+                  },
+                  "0997DFD5-1E1E-4BB1-BC5C-577AB378EBFB" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6B2956EE-DA96-48CD-AD35-63D624AA15BF"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1403499841690063,
+                        0.078501373529434204,
+                        -0.26964306831359863,
+                        1
+                      ]
+                    }
+                  },
+                  "2576FCA7-5ECF-4C2A-921C-EBEFC09A9946" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "586DBF3D-59C1-44D3-B028-5831504B51E6"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1356202363967896,
+                        0.078501373529434204,
+                        -0.17306311428546906,
+                        1
+                      ]
+                    }
+                  },
+                  "3253B2B5-BC80-48E3-B4B5-19073A987434" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6A2021F1-7D14-49F9-8862-236CBDEB8B35"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7060914039611816,
+                        0.078501492738723755,
+                        -0.17530657351016998,
+                        1
+                      ]
+                    }
+                  },
+                  "03342E0A-56E9-41FA-9D59-D2B3DFF68629" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "5E140930-BD68-4FF7-8F9A-2EB6F4E976E8"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6246534585952759,
+                        0.078501373529434204,
+                        0.073604576289653778,
+                        1
+                      ]
+                    }
+                  },
+                  "4332FD45-C3C6-4DF7-B2BE-E3AF81FFDEDE" : null,
+                  "4503FD32-08EA-4B03-B7E8-1009A2CBE687" : null,
+                  "5045F44A-5805-4907-8E2D-FF7E0B1A3D30" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "2F1A79B0-F8E2-420A-BACC-18DE26400C12"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2960529327392578,
+                        0.076035104691982269,
+                        -0.006433337926864624,
+                        1
+                      ]
+                    }
+                  },
+                  "5238D4D7-074A-430C-A89C-CDAE3C771ECB" : null,
+                  "5955A402-C30F-4576-84A7-2732526B59D8" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "7291FB64-6CF4-44C7-A982-D895DC843A92"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3052724599838257,
+                        0.079685032367706299,
+                        -0.35042029619216919,
+                        1
+                      ]
+                    }
+                  },
+                  "6914C024-2CA4-4CD3-AF8F-712DBA252B7A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3D6086E4-2C95-4C45-A36A-846E19F46BCE"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.536961555480957,
+                        0.079685032367706299,
+                        -0.18143598735332489,
+                        1
+                      ]
+                    }
+                  },
+                  "6930CC41-8DBC-4715-A5CB-0CCCE8C3D566" : null,
+                  "20797E8B-E9C2-4B89-BA48-74E3F3A7AE0A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "403EE45B-ABC6-4B65-9F98-DB496DA4799D"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7085195779800415,
+                        0.079685002565383911,
+                        -0.093230016529560089,
+                        1
+                      ]
+                    }
+                  },
+                  "29842E5A-BAF6-4F35-85DC-4D0791A94426" : null,
+                  "48475BF6-9A29-4C68-A16F-E12425B5FAC0" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "EA407703-566C-4CD9-A1A1-077B0E34DA36"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6274417638778687,
+                        0.079685032367706299,
+                        -0.53054255247116089,
+                        1
+                      ]
+                    }
+                  },
+                  "069321DF-4C2F-4444-9E3D-31A71F6F761C" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "16883041-84D4-498D-B30C-052245864310"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3846348524093628,
+                        0.077168852090835571,
+                        -0.43582794070243835,
+                        1
+                      ]
+                    }
+                  },
+                  "117015C7-B749-436A-90B3-E806B8144FC5" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "02862AB5-6FEA-45DD-8F34-3D4E0D286A58"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6253750324249268,
+                        0.0797901451587677,
+                        -0.0084083089604973793,
+                        1
+                      ]
+                    }
+                  },
+                  "4499782E-A596-4AF0-8CFE-1EF50149EC04" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "AF9744B2-1753-4567-B772-EDB02235516F"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6204196214675903,
+                        0.078802779316902161,
+                        -0.09707845002412796,
+                        1
+                      ]
+                    }
+                  },
+                  "8273204E-D1A0-47C6-B868-1C0F35CBE75E" : null,
+                  "9322053D-F00E-4130-9C43-0F37CC96756A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "C5C3313C-67AE-455B-B482-1E705732EC8F"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.464444637298584,
+                        0.078802779316902161,
+                        -0.43840661644935608,
+                        1
+                      ]
+                    }
+                  },
+                  "12474883-7F6A-4E20-BF48-5893709BB71C" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "B5600225-2D3D-4535-9D29-77EE39039054"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4633857011795044,
+                        0.078501619398593903,
+                        0.076744101941585541,
+                        1
+                      ]
+                    }
+                  },
+                  "52585255-D90D-46F9-B11D-EE29AE3E7488" : null,
+                  "A0EAF461-0F84-4269-AD8C-7A27E9448D7D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "ED8032DD-E9BE-4C38-9E61-F55DCDB5BF95"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3030729293823242,
+                        0.078501418232917786,
+                        -0.52791339159011841,
+                        1
+                      ]
+                    }
+                  },
+                  "A2CB2CC7-04FC-4B0D-84A6-1D7FD0A7F37B" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "56267E20-5FE4-4C3C-B624-0BEB16FB43CC"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4651609659194946,
+                        0.078501418232917786,
+                        -0.35485625267028809,
+                        1
+                      ]
+                    }
+                  },
+                  "A571A13A-43AA-4BD4-A821-F4AA3DFD34D3" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "03DF538A-74F3-4BEA-B5E1-45ED49B91E86"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7053213119506836,
+                        0.07880285382270813,
+                        -0.43390557169914246,
+                        1
+                      ]
+                    }
+                  },
+                  "A7843564-B4CD-44CC-BC57-657A4488416A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "66C21A2B-6D12-4642-8133-0296528CA743"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2273588180541992,
+                        0.078501418232917786,
+                        -0.35556957125663757,
+                        1
+                      ]
+                    }
+                  },
+                  "AAD0F49D-4DA4-4733-93A6-6BCB3F07320D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "8FCAA707-AC7F-4BA5-8CC3-038C6A9122A1"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2139891386032104,
+                        0.078501380980014801,
+                        -0.51724034547805786,
+                        1
+                      ]
+                    }
+                  },
+                  "AC7C8AA7-27BD-4608-A148-A0CB764B142E" : null,
+                  "B1E93D9B-0B04-4AF1-B270-7FFDB2170170" : null,
+                  "B7AE096A-7B7E-48B9-B747-EB9C6C59FA11" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "B19D4066-5E10-4525-BBEE-BD45CE2BF643"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3813785314559937,
+                        0.078802779316902161,
+                        -0.092883624136447906,
+                        1
+                      ]
+                    }
+                  },
+                  "B8D68455-070F-41F2-9504-DB2980471D5B" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9A3FBB89-42D5-45BA-BFB4-02E85E359AA8"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7791379690170288,
+                        0.078501373529434204,
+                        -0.014303521253168583,
+                        1
+                      ]
+                    }
+                  },
+                  "B9C587DE-D865-48D8-8D0A-73B1F40D2D9A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "BE3C95C5-2993-460A-94BF-4494511CCB11"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2972893714904785,
+                        0.078802801668643951,
+                        0.080652177333831787,
+                        1
+                      ]
+                    }
+                  },
+                  "B27C5972-A732-40EA-A746-5ED7603D5FBA" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "56B44F38-3C57-4171-84E3-F813D1700B3A"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1336758136749268,
+                        0.078501380980014801,
+                        -0.095111466944217682,
+                        1
+                      ]
+                    }
+                  },
+                  "B85E89BE-84D6-4285-A108-DAA7EEC134D9" : null,
+                  "B91C7CA3-4AB1-4253-9A84-07383168A8A8" : null,
+                  "B337CA74-673B-4CC5-9A88-7A2748A3B178" : null,
+                  "B2479A3D-A68E-4B42-AF54-7093EB707897" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "1D8631AB-DC0F-4280-8BE5-89D31C4ACB01"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.388730525970459,
+                        0.078802779316902161,
+                        -0.26606279611587524,
+                        1
+                      ]
+                    }
+                  },
+                  "BA4F68AD-A126-419A-BE46-92883A75D466" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "27950852-3CE0-478D-9481-94E1FD331E63"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5430746078491211,
+                        0.079685032367706299,
+                        -0.3497069776058197,
+                        1
+                      ]
+                    }
+                  },
+                  "BE2C7309-2137-4181-BB96-71EC40E8BA23" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "5B7CEE25-DF7E-4317-AF6E-11DEBDE9FDC4"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5467228889465332,
+                        0.077168852090835571,
+                        -0.26277080178260803,
+                        1
+                      ]
+                    }
+                  },
+                  "C5A7D840-FD72-4861-94BF-B8C1E98009DA" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "F0430843-5931-46F1-AE27-7694336D5616"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3783899545669556,
+                        0.078501373529434204,
+                        0.078346505761146545,
+                        1
+                      ]
+                    }
+                  },
+                  "C86C453E-17F4-4500-81ED-5350C9C74B03" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "D854675D-4F6A-4BC4-AC29-5A48E83555B5"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.710576057434082,
+                        0.078501492738723755,
+                        -0.26444345712661743,
+                        1
+                      ]
+                    }
+                  },
+                  "C99C7A74-39C3-4D67-A58E-65B6C8603610" : null,
+                  "C0775E63-9EC4-4670-9F39-14208CD62509" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "93CE21FE-361D-479B-86CA-164F2E6BA7C1"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7878046035766602,
+                        0.078501492738723755,
+                        -0.50920945405960083,
+                        1
+                      ]
+                    }
+                  },
+                  "C1051974-0C8F-48CD-B3A2-2254A9BB2ED0" : null,
+                  "C7492459-298B-4CD3-9284-57413B2C1416" : null,
+                  "CA5B6730-ECE3-4B10-A253-47ED0E83BAF5" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3A482872-E521-48A3-8996-B53CD404DBD7"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2259149551391602,
+                        0.075700663030147552,
+                        -0.2721731960773468,
+                        1
+                      ]
+                    }
+                  },
+                  "CA7FA0E5-1CBC-471B-8295-BA7313EC6146" : null,
+                  "CE64FCFF-DEEB-47EF-B63D-3A1CFC16A84E" : null,
+                  "CF84176D-5709-4836-8C94-E8588EA8A765" : null,
+                  "D5B0EB48-6909-438E-8D9F-8080723B49CF" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "FE5A6A44-7BA0-44CF-A4DB-15B915D77A76"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.5473183393478394,
+                        0.07570069283246994,
+                        -0.4377143383026123,
+                        1
+                      ]
+                    }
+                  },
+                  "D9CC9804-D4B5-423D-8809-FC9547013F3F" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "F1281191-A1C6-4791-A2EC-7020CC5788ED"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.6191831827163696,
+                        0.076035082340240479,
+                        -0.18416397273540497,
+                        1
+                      ]
+                    }
+                  },
+                  "D83C2BBF-28DE-4157-8980-5ABDD65A4E45" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "4A7DD0CE-E61D-4A1D-B8EE-56011CA7E5DA"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1344738006591797,
+                        0.075700685381889343,
+                        0.074541777372360229,
+                        1
+                      ]
+                    }
+                  },
+                  "D85F00F6-B00E-4C33-90D2-EA1AE92354EE" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3FC5ABB6-13D1-4E32-B76B-40C898031468"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7001875638961792,
+                        0.078501373529434204,
+                        -0.3441721498966217,
+                        1
+                      ]
+                    }
+                  },
+                  "D3310CED-91DD-43DD-BA06-63B00B7200FC" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "BDDF7440-3D0E-4505-A8F6-A4B376DBE8FB"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.4650369882583618,
+                        0.078501373529434204,
+                        -0.014135898090898991,
+                        1
+                      ]
+                    }
+                  },
+                  "D6715CB3-8800-4101-9EDD-6034916B035A" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "bucketColumns",
+                          {
+                            "typeName" : "Int",
+                            "value" : 10
+                          }
+                        ],
+                        [
+                          "bucketRows",
+                          {
+                            "typeName" : "Int",
+                            "value" : 10
+                          }
+                        ],
+                        [
+                          "type",
+                          {
+                            "typeName" : "String",
+                            "value" : "cubbies"
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.Storage",
+                        "version" : "1.1"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "1C0D697E-B18A-4C06-81F3-578013A9BD89"
+                          }
+                        ],
+                        [
+                          "rigidBody-enabled",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "rigidBody-material",
+                          {
+                            "typeName" : "RigidBodyMaterial",
+                            "value" : {
+                              "builtIn" : "ice",
+                              "overrides" : {
+
+                              }
+                            }
+                          }
+                        ],
+                        [
+                          "rigidBody-shapeType",
+                          {
+                            "typeName" : "String",
+                            "value" : "default"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.22154103219509125,
+                        1.3278415700312962e-08,
+                        1.320467379883894e-08,
+                        0,
+                        1.3204632054453214e-08,
+                        6.7344859644435928e-07,
+                        -0.22154103219509125,
+                        0,
+                        -1.3278456556520268e-08,
+                        0.22154103219509125,
+                        6.7344859644435928e-07,
+                        0,
+                        1.500840425491333,
+                        7.4505805969238281e-08,
+                        0.12047788500785828,
+                        1
+                      ]
+                    }
+                  },
+                  "E05ED7B7-A7F2-4056-B386-9B084C0DD0EA" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "3C80A697-3EC9-4B1D-B307-7FA5919BB200"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.1359176635742188,
+                        0.078501440584659576,
+                        -0.0088546276092529297,
+                        1
+                      ]
+                    }
+                  },
+                  "E997DA5C-CB7F-4E0C-B5C9-ECDBF577D034" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "5D9CA808-CE7B-45E7-B2EF-EFD82FB8535C"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.3015687465667725,
+                        0.077168852090835571,
+                        -0.090304963290691376,
+                        1
+                      ]
+                    }
+                  },
+                  "EC548A8D-D7AD-4242-A5F5-BA4D57A0136D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "CFD3981A-4E12-4AE2-8F14-B44F417659ED"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7862601280212402,
+                        0.078802786767482758,
+                        -0.44117811322212219,
+                        1
+                      ]
+                    }
+                  },
+                  "EF3D4333-0927-41FF-8C18-705FC59F1E54" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "6BE49DEA-B798-4272-8458-EA41B41C28A4"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.7801470756530762,
+                        0.078802786767482758,
+                        -0.27290710806846619,
+                        1
+                      ]
+                    }
+                  },
+                  "EF98E786-C638-48B5-AAA8-680D3DAE3A5D" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "arrowAngle",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.92000000000000004
+                          }
+                        ],
+                        [
+                          "arrowAngleOffset",
+                          {
+                            "typeName" : "Double",
+                            "value" : -16
+                          }
+                        ],
+                        [
+                          "arrowLength",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.28000000000000003
+                          }
+                        ],
+                        [
+                          "arrowParam",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.92000000000000004
+                          }
+                        ],
+                        [
+                          "arrowWidth",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.17000000000000001
+                          }
+                        ],
+                        [
+                          "bevelRoundness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 1
+                          }
+                        ],
+                        [
+                          "bubbleArrowBlendOffset",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.29999999999999999
+                          }
+                        ],
+                        [
+                          "bubbleMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "bubbleMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0.93333500623703003,
+                              0.93333500623703003,
+                              0.93333500623703003,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "bubbleType",
+                          {
+                            "typeName" : "String",
+                            "value" : "speech"
+                          }
+                        ],
+                        [
+                          "cornerRoundness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.20000000000000001
+                          }
+                        ],
+                        [
+                          "featureAngle",
+                          {
+                            "typeName" : "Double",
+                            "value" : 135
+                          }
+                        ],
+                        [
+                          "height",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.18268999999999999
+                          }
+                        ],
+                        [
+                          "message",
+                          {
+                            "typeName" : "String",
+                            "value" : "Инструкция"
+                          }
+                        ],
+                        [
+                          "messageFont",
+                          {
+                            "typeName" : "String",
+                            "value" : "Helvetica"
+                          }
+                        ],
+                        [
+                          "messageMaterial",
+                          {
+                            "typeName" : "String",
+                            "value" : "standard"
+                          }
+                        ],
+                        [
+                          "messageMaterialColor",
+                          {
+                            "typeName" : "double4",
+                            "value" : [
+                              0,
+                              0,
+                              0,
+                              1
+                            ]
+                          }
+                        ],
+                        [
+                          "messageScale",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.62355585463364238
+                          }
+                        ],
+                        [
+                          "numFeatures",
+                          {
+                            "typeName" : "Int",
+                            "value" : 8
+                          }
+                        ],
+                        [
+                          "thickness",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.02
+                          }
+                        ],
+                        [
+                          "width",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.28278999999999999
+                          }
+                        ]
+                      ],
+                      "children" : {
+                        "text_1" : {
+                          "overrides" : {
+                            "factory" : null,
+                            "runtimeAttributes" : [
+                              [
+                                "RuntimeIdentifier",
+                                {
+                                  "typeName" : "UUID",
+                                  "value" : "D53ACD58-462C-4595-A4EE-ADF6618021D4"
+                                }
+                              ]
+                            ]
+                          }
+                        }
+                      },
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.QuoteBubbleAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "9C7B0655-80E5-47E2-B467-34077B47581E"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        3.0398368835449219e-06,
+                        -0.99999994039535522,
+                        0,
+                        0,
+                        0.99999994039535522,
+                        3.0398368835449219e-06,
+                        0,
+                        0.76684701442718506,
+                        0.16378635168075562,
+                        -0.022044956684112549,
+                        1
+                      ]
+                    }
+                  },
+                  "EFA94B74-88DF-4399-8638-84F7FC5DE3EF" : {
+                    "overrides" : {
+                      "arguments" : [
+                        [
+                          "doubleSided",
+                          {
+                            "typeName" : "Bool",
+                            "value" : true
+                          }
+                        ],
+                        [
+                          "image",
+                          {
+                            "typeName" : "String",
+                            "value" : "image:5d8dfc2fa832701c5581941f8c7fdbf3\/free-icon-squirrel-185724.png"
+                          }
+                        ],
+                        [
+                          "maxDimension",
+                          {
+                            "typeName" : "Double",
+                            "value" : 0.14799999999999999
+                          }
+                        ]
+                      ],
+                      "factory" : {
+                        "identifier" : "com.apple.rc.af.CoreAssetFactories.PosterAssetFactory",
+                        "version" : "1.0"
+                      },
+                      "runtimeAttributes" : [
+                        [
+                          "RuntimeIdentifier",
+                          {
+                            "typeName" : "UUID",
+                            "value" : "54C2125C-58A6-4917-8CBE-FFAE141824C4"
+                          }
+                        ]
+                      ]
+                    },
+                    "transform" : {
+                      "matrix" : [
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0.50539165735244751,
+                        0,
+                        1.2185629606246948,
+                        0.075700663030147552,
+                        -0.098994024097919464,
+                        1
+                      ]
+                    }
+                  }
+                },
+                "factory" : null,
+                "runtimeAttributes" : [
+                  [
+                    "isAccessibilityEnabled",
+                    {
+                      "typeName" : "Bool",
+                      "value" : false
+                    }
+                  ]
+                ]
+              },
+              "physicsMode" : "grid",
+              "title" : "Box",
+              "viewTransform" : {
+                "cameraTransform" : [
+                  0.88791269063949585,
+                  1.8626450382086546e-09,
+                  0.46001195907592773,
+                  0,
+                  0.44939661026000977,
+                  0.21358829736709595,
+                  -0.86742299795150757,
+                  0,
+                  -0.098253190517425537,
+                  0.97692370414733887,
+                  0.18964782357215881,
+                  0,
+                  0.77151072025299072,
+                  4.4502897262573242,
+                  0.70184338092803955,
+                  1
+                ],
+                "sceneTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.99999994039535522,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              }
+            }
+          ],
+          "__version" : 5
+        }
+      ],
+      "tags" : {
+        "__content" : [
+          {
+            "tagsStore" : {
+
+            }
+          }
+        ],
+        "__version" : 1
+      }
+    }
+  ],
+  "__version" : 1
+}

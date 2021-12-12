@@ -1,0 +1,633 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1205CB002764AB1400250071 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1205CAFF2764AB1400250071 /* AppDelegate.swift */; };
+		1205CB022764AB1400250071 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1205CB012764AB1400250071 /* ViewController.swift */; };
+		1205CB042764AB1400250071 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 1205CB032764AB1400250071 /* Experience.rcproject */; };
+		1205CB072764AB1400250071 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1205CB052764AB1400250071 /* Main.storyboard */; };
+		1205CB092764AB1600250071 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1205CB082764AB1600250071 /* Assets.xcassets */; };
+		1205CB0C2764AB1600250071 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1205CB0A2764AB1600250071 /* LaunchScreen.storyboard */; };
+		1205CB162764AB1700250071 /* Hackaton_1221Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1205CB152764AB1700250071 /* Hackaton_1221Tests.swift */; };
+		1205CB202764AB1700250071 /* Hackaton_1221UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1205CB1F2764AB1700250071 /* Hackaton_1221UITests.swift */; };
+		1205CB222764AB1700250071 /* Hackaton_1221UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1205CB212764AB1700250071 /* Hackaton_1221UITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1205CB122764AB1700250071 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1205CAF42764AB1400250071 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1205CAFB2764AB1400250071;
+			remoteInfo = "Hackaton 1221";
+		};
+		1205CB1C2764AB1700250071 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1205CAF42764AB1400250071 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1205CAFB2764AB1400250071;
+			remoteInfo = "Hackaton 1221";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1205CAFC2764AB1400250071 /* Hackaton 1221.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hackaton 1221.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1205CAFF2764AB1400250071 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1205CB012764AB1400250071 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1205CB032764AB1400250071 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		1205CB062764AB1400250071 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1205CB082764AB1600250071 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1205CB0B2764AB1600250071 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1205CB112764AB1700250071 /* Hackaton 1221Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hackaton 1221Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1205CB152764AB1700250071 /* Hackaton_1221Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackaton_1221Tests.swift; sourceTree = "<group>"; };
+		1205CB1B2764AB1700250071 /* Hackaton 1221UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hackaton 1221UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1205CB1F2764AB1700250071 /* Hackaton_1221UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackaton_1221UITests.swift; sourceTree = "<group>"; };
+		1205CB212764AB1700250071 /* Hackaton_1221UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackaton_1221UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		121804172765F4D2000334E5 /* Instrucy.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Instrucy.rcproject; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1205CAF92764AB1400250071 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB0E2764AB1700250071 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB182764AB1700250071 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1205CAF32764AB1400250071 = {
+			isa = PBXGroup;
+			children = (
+				1205CAFE2764AB1400250071 /* Hackaton 1221 */,
+				1205CB142764AB1700250071 /* Hackaton 1221Tests */,
+				1205CB1E2764AB1700250071 /* Hackaton 1221UITests */,
+				1205CAFD2764AB1400250071 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1205CAFD2764AB1400250071 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1205CAFC2764AB1400250071 /* Hackaton 1221.app */,
+				1205CB112764AB1700250071 /* Hackaton 1221Tests.xctest */,
+				1205CB1B2764AB1700250071 /* Hackaton 1221UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1205CAFE2764AB1400250071 /* Hackaton 1221 */ = {
+			isa = PBXGroup;
+			children = (
+				1205CAFF2764AB1400250071 /* AppDelegate.swift */,
+				1205CB012764AB1400250071 /* ViewController.swift */,
+				1205CB032764AB1400250071 /* Experience.rcproject */,
+				121804172765F4D2000334E5 /* Instrucy.rcproject */,
+				1205CB052764AB1400250071 /* Main.storyboard */,
+				1205CB082764AB1600250071 /* Assets.xcassets */,
+				1205CB0A2764AB1600250071 /* LaunchScreen.storyboard */,
+			);
+			path = "Hackaton 1221";
+			sourceTree = "<group>";
+		};
+		1205CB142764AB1700250071 /* Hackaton 1221Tests */ = {
+			isa = PBXGroup;
+			children = (
+				1205CB152764AB1700250071 /* Hackaton_1221Tests.swift */,
+			);
+			path = "Hackaton 1221Tests";
+			sourceTree = "<group>";
+		};
+		1205CB1E2764AB1700250071 /* Hackaton 1221UITests */ = {
+			isa = PBXGroup;
+			children = (
+				1205CB1F2764AB1700250071 /* Hackaton_1221UITests.swift */,
+				1205CB212764AB1700250071 /* Hackaton_1221UITestsLaunchTests.swift */,
+			);
+			path = "Hackaton 1221UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1205CAFB2764AB1400250071 /* Hackaton 1221 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1205CB252764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221" */;
+			buildPhases = (
+				1205CAF82764AB1400250071 /* Sources */,
+				1205CAF92764AB1400250071 /* Frameworks */,
+				1205CAFA2764AB1400250071 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hackaton 1221";
+			productName = "Hackaton 1221";
+			productReference = 1205CAFC2764AB1400250071 /* Hackaton 1221.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1205CB102764AB1700250071 /* Hackaton 1221Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1205CB282764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221Tests" */;
+			buildPhases = (
+				1205CB0D2764AB1700250071 /* Sources */,
+				1205CB0E2764AB1700250071 /* Frameworks */,
+				1205CB0F2764AB1700250071 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1205CB132764AB1700250071 /* PBXTargetDependency */,
+			);
+			name = "Hackaton 1221Tests";
+			productName = "Hackaton 1221Tests";
+			productReference = 1205CB112764AB1700250071 /* Hackaton 1221Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1205CB1A2764AB1700250071 /* Hackaton 1221UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1205CB2B2764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221UITests" */;
+			buildPhases = (
+				1205CB172764AB1700250071 /* Sources */,
+				1205CB182764AB1700250071 /* Frameworks */,
+				1205CB192764AB1700250071 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1205CB1D2764AB1700250071 /* PBXTargetDependency */,
+			);
+			name = "Hackaton 1221UITests";
+			productName = "Hackaton 1221UITests";
+			productReference = 1205CB1B2764AB1700250071 /* Hackaton 1221UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1205CAF42764AB1400250071 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					1205CAFB2764AB1400250071 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					1205CB102764AB1700250071 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = 1205CAFB2764AB1400250071;
+					};
+					1205CB1A2764AB1700250071 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = 1205CAFB2764AB1400250071;
+					};
+				};
+			};
+			buildConfigurationList = 1205CAF72764AB1400250071 /* Build configuration list for PBXProject "Hackaton 1221" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1205CAF32764AB1400250071;
+			productRefGroup = 1205CAFD2764AB1400250071 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1205CAFB2764AB1400250071 /* Hackaton 1221 */,
+				1205CB102764AB1700250071 /* Hackaton 1221Tests */,
+				1205CB1A2764AB1700250071 /* Hackaton 1221UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1205CAFA2764AB1400250071 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1205CB0C2764AB1600250071 /* LaunchScreen.storyboard in Resources */,
+				1205CB092764AB1600250071 /* Assets.xcassets in Resources */,
+				1205CB072764AB1400250071 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB0F2764AB1700250071 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB192764AB1700250071 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1205CAF82764AB1400250071 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1205CB022764AB1400250071 /* ViewController.swift in Sources */,
+				1205CB002764AB1400250071 /* AppDelegate.swift in Sources */,
+				1205CB042764AB1400250071 /* Experience.rcproject in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB0D2764AB1700250071 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1205CB162764AB1700250071 /* Hackaton_1221Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1205CB172764AB1700250071 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1205CB202764AB1700250071 /* Hackaton_1221UITests.swift in Sources */,
+				1205CB222764AB1700250071 /* Hackaton_1221UITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1205CB132764AB1700250071 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1205CAFB2764AB1400250071 /* Hackaton 1221 */;
+			targetProxy = 1205CB122764AB1700250071 /* PBXContainerItemProxy */;
+		};
+		1205CB1D2764AB1700250071 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1205CAFB2764AB1400250071 /* Hackaton 1221 */;
+			targetProxy = 1205CB1C2764AB1700250071 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1205CB052764AB1400250071 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1205CB062764AB1400250071 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1205CB0A2764AB1600250071 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1205CB0B2764AB1600250071 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1205CB232764AB1700250071 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1205CB242764AB1700250071 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1205CB262764AB1700250071 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1205CB272764AB1700250071 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		1205CB292764AB1700250071 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hackaton 1221.app/Hackaton 1221";
+			};
+			name = Debug;
+		};
+		1205CB2A2764AB1700250071 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hackaton 1221.app/Hackaton 1221";
+			};
+			name = Release;
+		};
+		1205CB2C2764AB1700250071 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hackaton 1221";
+			};
+			name = Debug;
+		};
+		1205CB2D2764AB1700250071 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3S3TW83623;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Skoltech.Hackaton-1221UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hackaton 1221";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1205CAF72764AB1400250071 /* Build configuration list for PBXProject "Hackaton 1221" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1205CB232764AB1700250071 /* Debug */,
+				1205CB242764AB1700250071 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1205CB252764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1205CB262764AB1700250071 /* Debug */,
+				1205CB272764AB1700250071 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1205CB282764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1205CB292764AB1700250071 /* Debug */,
+				1205CB2A2764AB1700250071 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1205CB2B2764AB1700250071 /* Build configuration list for PBXNativeTarget "Hackaton 1221UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1205CB2C2764AB1700250071 /* Debug */,
+				1205CB2D2764AB1700250071 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1205CAF42764AB1400250071 /* Project object */;
+}
